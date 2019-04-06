@@ -1,0 +1,3 @@
+## spring boot 实现从thingsboard获取数据
+
+springboot中使用HTTP方法从thingsboard取数据
